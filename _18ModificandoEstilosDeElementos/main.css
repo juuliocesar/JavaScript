@@ -1,0 +1,20 @@
+.thumb {
+    width: 200px;
+    transition: 300ms all ease;
+}
+
+
+.grande {
+    width: 400px;
+}
+
+.titulo{
+    border: 1px solid navy;
+    background:red;
+    padding: 10px;
+}
+
+.tituloGrande {
+    font-size: 60px;
+}
+

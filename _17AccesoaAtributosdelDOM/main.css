@@ -1,0 +1,22 @@
+
+div {
+
+    width: 200px;
+    height: 200px;
+    background: beige;
+    display: inline-block;
+    margin-right: 10px;
+    border: 1px red;
+
+}
+
+.azul {
+    background: blue;
+    border: 1px solid black;
+}
+
+.rojo{
+    background: brown;
+    border: 1px solid black;
+}
+
